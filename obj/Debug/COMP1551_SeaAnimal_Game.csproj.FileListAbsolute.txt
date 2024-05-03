@@ -1,0 +1,483 @@
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\source\repos\COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\COMP1551\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\Downloads\New\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Thiyah)COMP1551_SeaAnimal_Game-20221111T105629Z-001\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game\(Thiyah)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft9)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft10)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft11)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\User\Downloads\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\USER\OneDrive\Desktop\(Draft13)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\Downloads\(Draft)COMP1551_SeaAnimal_Game-20221117T042512Z-001\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft14)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft15)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft16)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft22)COMP1551_SeaAnimal_Game\(Draft20)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft23)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft24)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft25)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft26)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD\(Draft27)COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\DB\Database4.accdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe.config
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\COMP1551_SeaAnimal_Game.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.AssemblyReference.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.EasyLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.HardLevel.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.LevelsPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.MainPage.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Normal_Level.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Player_Name_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Properties.Resources.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.Score_Page.resources
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.GenerateResource.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CoreCompileInputs.cache
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.csproj.CopyComplete
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.exe
+C:\Users\khiew\OneDrive\Desktop\College Work\COMP1551_AD_Final\COMP1551_SeaAnimal_Game\(Draft)COMP1551_SeaAnimal_Game\obj\Debug\COMP1551_SeaAnimal_Game.pdb
